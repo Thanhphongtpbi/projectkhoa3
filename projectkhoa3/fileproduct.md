@@ -50,3 +50,11 @@ Login page và register page : 1 người
 Homepage colection page : 2 người 
 cart page mini cart page và checkout page : 2 người 
 Header footer search page : 1 người 
+
+ Thiện  : Frontend
+ Vũ : Backend; 
+ Văn : Backend ;
+ Hào : Front end
+ Tuấn Anh : Front end
+ Dũng : Backend
+
